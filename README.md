@@ -1,6 +1,6 @@
 # API Name
 
-API NAme: Danao Sample API
+API NAme: Pantanilla Sample API
 
 
  
